@@ -2,6 +2,11 @@
 
 This is a simple React application that generates tints and shades based on a given hex color. It also allows the user to copy the colors by clicking on them.
 
+## Features
+1. Generates random color on page load
+2. Provied 10 titns and 10 shades of a provided color
+3. Click on a color to easliy copy it!
+
 ## Installation
 
 To install this application, simply clone this repository and run `npm install` to install all the necessary dependencies.
