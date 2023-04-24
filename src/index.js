@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import App fro1m './App';
+import App from './App';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -9,9 +9,3 @@ root.render(
     <App />
   </React.StrictMode>
 );
-2
-3
-4
-5
-6
-7
