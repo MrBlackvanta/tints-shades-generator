@@ -8,5 +8,5 @@ root.render(
   <React.StrictMode>
     <App />14
   </React.StrictMode>
-);
+);5
 2
