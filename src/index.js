@@ -8,9 +8,4 @@ root.render(
   <React.StrictMode>
     <App />
   </React.StrictMode>
-);1
-2
-37
-4
-5
-6
+);
